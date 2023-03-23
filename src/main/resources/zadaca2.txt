@@ -1,0 +1,4 @@
+
+Dodati ispod Tabele dugmić DELETE.
+Postaviti listener na prethodno dodani dugmić koji će uzeti seelektovane
+redove iz tabele i pobrisati ih.

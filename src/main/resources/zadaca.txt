@@ -1,0 +1,6 @@
+ Današnju aplikaciju prepisati na način da nikako ne koristi ConnectionParam
+ kako bi doznala parametre konekcije na bazu.
+ Potrebno je definirati parametre konekcije na bazu tako da oni budu "INJEKTOVANI on application startup".
+
+ Bonus: Istražiti koncept environment varijabli i vidjeti kako se rade postavke env.var.
+ kroz Intellij i parametrizovati aplikaciju pomoću env. var.
